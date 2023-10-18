@@ -1,0 +1,3 @@
+build:
+  env:
+    VITE_MODE: production
